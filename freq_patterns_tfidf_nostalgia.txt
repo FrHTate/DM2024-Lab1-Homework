@@ -1,0 +1,202 @@
+teenager:18
+heart:18
+record:18
+60:18
+get:18
+more:18
+know:18
+oh:18
+no:19
+reeves:19
+because:19
+cry:19
+nostalgic:19
+parents:19
+being:19
+way:19
+early:20
+well:20
+did:20
+lovely:20
+girl:20
+sweet:21
+got:21
+over:21
+70:21
+been:21
+since:22
+high:22
+high	school:20
+playing:22
+memory:23
+bring:23
+long:23
+sad:23
+child:24
+year:24
+jim:25
+away:25
+by:25
+has:25
+today:25
+about:25
+could:25
+kid:26
+only:26
+such:26
+them:26
+or:26
+wish:26
+singing:27
+mom:27
+an:28
+ever:28
+came:28
+some:28
+would:28
+will:28
+go:28
+day:28
+little:29
+mum:29
+takes:30
+favorite:30
+passed:30
+after:30
+our:31
+makes:31
+wonderful:31
+who:32
+there:32
+play:33
+really:33
+radio:34
+radio	on:26
+life:35
+then:36
+ago:36
+again:36
+thanks:36
+thanks	for:23
+how:37
+they:37
+happy:37
+out:38
+him:39
+are:39
+sing:39
+thank:39
+thank	for:18
+best:39
+not:40
+very:40
+played:41
+what:41
+these:42
+these	songs:20
+hear:43
+she:43
+those:43
+those	days:23
+listen:43
+his:44
+were:44
+every:44
+can:44
+young:44
+heard:45
+times:45
+never:46
+used:46
+am:46
+be:46
+voice:47
+one:47
+her:48
+school:49
+like:50
+dad:50
+he:50
+he	with:18
+up:51
+loved:52
+much:55
+much	miss:20
+listening:58
+had:59
+had	that:21
+had	on:21
+many:61
+first:61
+first	on:19
+always:62
+always	on:19
+songs:62
+still:64
+have:64
+have	is:18
+just:64
+just	for:18
+just	with:18
+just	that:20
+at:68
+at	on:21
+at	that:22
+as:68
+as	on:18
+as	is:19
+as	for:20
+from:70
+good:70
+good	days:18
+good	that:19
+good	old:24
+all:70
+all	that:21
+reminds:74
+now:74
+now	that:19
+now	is:20
+now	on:20
+now	with:21
+now	old:24
+we:74
+we	for:19
+we	that:22
+we	with:22
+we	on:23
+miss:74
+beautiful:75
+but:78
+but	on:19
+but	that:20
+but	for:21
+days:78
+days	old:28
+music:89
+music	with:18
+music	on:20
+music	is:21
+music	that:23
+great:93
+great	for:18
+great	on:19
+is:97
+is	on:20
+is	with:21
+is	that:22
+with:107
+with	that:18
+with	old:20
+with	for:21
+with	on:35
+old:108
+old	for:20
+old	that:25
+old	on:28
+that:113
+that	for:32
+that	on:32
+for:125
+for	on:32
+on:128
